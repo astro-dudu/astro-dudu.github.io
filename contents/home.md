@@ -11,9 +11,9 @@ astro.cat.dsb@gmail.com
 B.E., Physics, Institute for Advenced Study, Shenzhen University, 2023—2027 (expected).
 
 #### Research Interests
-Evolution of Lunar Geological Processes; Planetary Physics and Geology;\
-Structure and Exploration of Solar System Small Bodies;\
-Planetary Radar Detection;
+- Evolution of Lunar Geological Processes; Planetary Physics and Geology;\
+- Structure and Exploration of Solar System Small Bodies;\
+- Planetary Radar Detection;
 
 #### Other Interest Fields
 Cosmology: Large Scale Structure; The Early Stage Evolution;\
