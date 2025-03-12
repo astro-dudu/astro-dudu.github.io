@@ -2,15 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Bachelor's Degree in Physic, at Institute for Advanced Study, Shenzhen University, China.
 
 #### Email
-astro.cat.dsb[at]gmail.com
+astro.cat.dsb@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Physics, Institute for Advenced Study, Shenzhen University, 2023—2027 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Evolution of Lunar Geological Processes; 
+Planetary Radar Detection; 
+Planetary Physics and Geology; 
+Structure and Exploration of Solar System Small Bodies
 
