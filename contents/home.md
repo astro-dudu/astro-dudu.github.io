@@ -16,6 +16,6 @@ Structure and Exploration of Solar System Small Bodies;\
 Planetary Radar Detection;
 
 #### Other Interest Fields
-Cosmology: Large Scale Structure; The Early Stage Evolution;
+Cosmology: Large Scale Structure; The Early Stage Evolution;\
 Astrophysics: ISM and Star Formation;
 
